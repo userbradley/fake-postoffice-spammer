@@ -10,7 +10,7 @@ They do some clever stuff where if you try come from a computer, it displays a `
 
 Below is on desktop:
 
-![](images/2022-03-22 13.27.06 local-shipstatus-gb.com 71b2acc3623e.jpg)
+![](images/shipondesktop.jpg)
 
 ---
 Below is the site:
@@ -606,7 +606,7 @@ changed:     20220206
 
 Certificates for their Domain
 
-![](images/2022-03-22 13.42.39 crt.sh 51205f526808.jpg)
+![](images/crt.sh.jpg)
 
 Domains they have:
 
